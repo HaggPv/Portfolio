@@ -1,10 +1,7 @@
-### **Уровень потребительской лояльности (NPS - Net Promoter Score)**
+### **Исследование уровня потребительской лояльности (NPS - Net Promoter Score)**
+для телекоммуникационная компания, которая оказывает услуги на территории всего СНГ.
 
 #### ОПИСАНИЕ ПРОЕКТА
-
-**Источник данных:**
-телекоммуникационная компания, которая оказывает услуги на территории всего СНГ.
-
 **Задачи**
 - Определить текущий уровень потребительской лояльности (NPS - Net Promoter Score)\
 среди клиентов из России на основании проведённого опроса.
@@ -12,40 +9,44 @@
 - Охарактеризовать клиентов, которые относятся к группе cторонников (promoters).
 
 **Цель**\
-Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.
-[Дашборды здесь](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.\
 
 **Инструмены и Навыки**
->SQL, SQLite, Python, pandas, Tableau\
-Выгрузка данных, обработка данных, визуализация, построение дашбордов
+>- SQL, SQLite, Python, pandas, Tableau\
+>- [Выгрузка данных, обработка данных](Project_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
+
 
 **Результат**\
 [Построена система дашбордов для оперативного контроля уровня лояльности](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 *Проект сделан в процессе обучения в Яндекс-Практикум\
 **Специальность: аналитик данных\
 (расширенный курс)**.*
 ________________________
 
-**Net Promoter Score (NPS) for Telecom Company**
+### **Net Promoter Score (NPS) research**
+for a telecommunications company providing services across the entire CIS region.
 
-**PROJECT DESCRIPTION**\
-The data source is a telecommunications company providing services across the entire CIS region.
-
+#### **Project description**
 **Tasks**
 - Determine the current level of customer loyalty (NPS - Net Promoter Score) among clients from Russia based on a conducted survey.
 - Identify the most and least loyal user groups.
 - Characterize customers who belong to the promoter group.
 
 **Objective**\
-To create interactive dashboards that allow managers to quickly access loyalty data based on required slices. [Dashboards are here](path/to/dashboards).
+To create interactive dashboards that allow managers to quickly access loyalty data based on required slices.\
 
 **Tools and Skills**
->- **SQL, SQLite, Python, pandas, Tableau**
-- Data extraction, data processing, visualization, dashboard creation
+>- SQL, SQLite, Python, pandas, Tableau\
+>- [Data extraction, data processing](Project_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), visualization, dashboard creation
+
+
 
 **Result**\
-A dashboard system has been built for real-time monitoring of loyalty levels.
+[A dashboard system has been built for real-time monitoring of loyalty levels.](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+
 
 
 *The project was completed during training at Yandex.Practicum\
