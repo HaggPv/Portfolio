@@ -13,7 +13,7 @@
 
 **Инструмены и Навыки**
 >- SQL, SQLite, Python, pandas, Tableau\
->- [Выгрузка данных, обработка данных](Project_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
+>- [Выгрузка данных, обработка данных](https://github.com/HaggPv/Portfolio/blob/main/Project_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
 
 
 **Результат**\
@@ -39,7 +39,7 @@ To create interactive dashboards that allow managers to quickly access loyalty d
 
 **Tools and Skills**
 >- SQL, SQLite, Python, pandas, Tableau\
->- [Data extraction, data processing](Project_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), visualization, dashboard creation
+>- [Data extraction, data processing](https://github.com/HaggPv/Portfolio/blob/main/Project_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), visualization, dashboard creation
 
 
 
