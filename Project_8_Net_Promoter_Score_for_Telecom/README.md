@@ -13,12 +13,14 @@
 
 **Цель**
 Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.
+[Дашборды здесь](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-**Навыки и инструмены**
+**Инструмены и Навыки**
+SQL, SQLite, Python, pandas, Tableau
+Выгрузка данных, обработка данных, визуализация, построение дашбордов
 
->Язык: Python\
-Библиотеки: **pandas, seaborn, plotly.express, matplotlib.pyplot, folium, numpy**\
-*В рамках исследования потребовался большой объём предварительной обработки данных.
+**Результат**
+[Построена система дашбордов для оперативного контроля уровня лояльности](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 Проект сделан в процессе обучения в Яндекс-Практикум\
 **Специальность: аналитик данных\
