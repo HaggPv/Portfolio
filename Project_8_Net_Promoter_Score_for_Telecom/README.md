@@ -2,7 +2,7 @@
 
 #### ОПИСАНИЕ ПРОЕКТА
 
-**Источник данных**
+**Источник данных:**
 телекоммуникационная компания, которая оказывает услуги на территории всего СНГ.
 
 **Задачи**
@@ -11,34 +11,42 @@
 - Выявить наиболее и наименее лояльные группы пользователей.
 - Охарактеризовать клиентов, которые относятся к группе cторонников (promoters).
 
-**Цель**
+**Цель**\
 Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.
 [Дашборды здесь](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Инструмены и Навыки**
-SQL, SQLite, Python, pandas, Tableau
+>SQL, SQLite, Python, pandas, Tableau\
 Выгрузка данных, обработка данных, визуализация, построение дашбордов
 
-**Результат**
+**Результат**\
 [Построена система дашбордов для оперативного контроля уровня лояльности](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-Проект сделан в процессе обучения в Яндекс-Практикум\
+*Проект сделан в процессе обучения в Яндекс-Практикум\
 **Специальность: аналитик данных\
-(расширенный курс)**.
+(расширенный курс)**.*
 ________________________
 
-**Market Research on the Food Service Industry in Moscow**
+**Net Promoter Score (NPS) for Telecom Company**
 
-Objective of the research:\
-To open a food service establishment in Moscow.
+**PROJECT DESCRIPTION**\
+The data source is a telecommunications company providing services across the entire CIS region.
 
-Research tasks:\
-Conduct a market research on the food service industry in Moscow,\
-identify interesting market features, visualize the results.
+**Tasks**
+- Determine the current level of customer loyalty (NPS - Net Promoter Score) among clients from Russia based on a conducted survey.
+- Identify the most and least loyal user groups.
+- Characterize customers who belong to the promoter group.
 
->Language: Python\
-Libraries: **pandas, seaborn, plotly.express, matplotlib.pyplot, folium, numpy**\
-*As part of the research, a significant amount of data preprocessing was required.
+**Objective**\
+To create interactive dashboards that allow managers to quickly access loyalty data based on required slices. [Dashboards are here](path/to/dashboards).
+
+**Tools and Skills**
+>- **SQL, SQLite, Python, pandas, Tableau**
+- Data extraction, data processing, visualization, dashboard creation
+
+**Result**\
+A dashboard system has been built for real-time monitoring of loyalty levels.
+
 
 *The project was completed during training at Yandex.Practicum\
 **Specialization: Data Analyst (advanced course)**.*
