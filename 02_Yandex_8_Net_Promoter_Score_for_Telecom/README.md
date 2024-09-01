@@ -13,7 +13,7 @@
 
 **Инструмены и методы**
 >- SQL, SQLite, Python, pandas, Tableau
->- [Выгрузка данных, обработка данных](02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
+>- [Выгрузка данных, обработка данных](https://github.com/HaggPv/Portfolio/blob/main/02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
 
 
 **Результат**
