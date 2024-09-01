@@ -42,7 +42,7 @@ To create interactive dashboards that allow managers to quickly access loyalty d
 
 **Tools and Skills**
 >- SQL, SQLite, Python, pandas, Tableau\
->- [Data extraction, data processing](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link), visualization, dashboard creation
+>- [Data extraction, data processing](https://github.com/HaggPv/Portfolio/blob/main/02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), visualization, dashboard creation
 
 
 
