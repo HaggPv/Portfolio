@@ -1,25 +1,25 @@
 ### **Исследование уровня потребительской лояльности (NPS - Net Promoter Score)**
-для телекоммуникационная компания, оказывающая услуги на территории СНГ.
+для телекоммуникационной компании, оказывающей услуги на территории СНГ.
 
-#### ОПИСАНИЕ ПРОЕКТА
-**Задачи**
+#### Описание проекта
+**Задачи**:
 - Определить текущий уровень потребительской лояльности (NPS - Net Promoter Score)\
 среди клиентов из России на основании проведённого опроса.
 - Выявить наиболее и наименее лояльные группы пользователей.
 - Охарактеризовать клиентов, которые относятся к группе cторонников (promoters).
 
-**Цель**\
+**Цель**:\
 Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.
 
-**Инструмены и методы**
+**Инструмены и методы**:
 >- SQL, SQLite, Python, pandas, Tableau
 >- [Выгрузка данных, обработка данных](https://github.com/HaggPv/Portfolio/blob/main/02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
 
 
-**Результат**
-- Рассчитан NPS.
+**Результат**:
+- Рассчитан уровень лояльности (NPS).
 - Определены и описаны наиболее и наименее лояльные группы пользователей.
-- [Построена система дашбордов](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)\
+- [Построена система дашбордов.](https://public.tableau.com/views/NetPromoterScoreforTelecom/NPSstudy?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)\
 Дашборды дают возможность менеджерам оперативно оценить уровень лояльности по различным срезам данных - географическим, демографическим, поведенческим.\
 Тем самым вовремя реагировать на изменение лояльности в случае проведения непрерывного он-лайн опроса.
 
@@ -38,10 +38,10 @@ for a telecommunications company providing services across the entire CIS region
 - Characterize customers who belong to the promoter group.
 
 **Objective**\
-To create interactive dashboards that allow managers to quickly access loyalty data based on required slices.\
+To create interactive dashboards that allow managers to quickly access loyalty data based on required slices.
 
 **Tools and Skills**
->- SQL, SQLite, Python, pandas, Tableau\
+>- SQL, SQLite, Python, pandas, Tableau
 >- [Data extraction, data processing](https://github.com/HaggPv/Portfolio/blob/main/02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), visualization, dashboard creation
 
 
