@@ -8,7 +8,7 @@
 найти интересные особенности рынка, визуализировать результаты.
 
 **Инструменты и методы:**
-> - Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, numpy
+> - Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, numpy, json, geopandas
 > - Обработка данных, визуализация данных, создание презентаций\
 *В рамках исследования потребовался большой объём предварительной обработки данных*
 
