@@ -25,10 +25,10 @@ ______________________________________
 **Research objective:**\
 Determining the factors that influence the cost of residential real estate.
 
->**Tools:**\
+>**Tools:**
 > - Python, pandas, matplotlib.pyplot
 
->**Methods:**\
+>**Methods:**
 > - Data processing
 > - Histogram, boxplot, scatter matrix, categorization, scatter plot
 > - Exploratory data analysis, data visualization

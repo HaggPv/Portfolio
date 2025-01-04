@@ -30,10 +30,10 @@ _________________________________
 Identify market trends in the Russian film distribution industry,\
 with special focus on rental and financial characteristics of films that received government funding.
 
->**Tools:**\
+>**Tools:**
 > - Python, pandas, matplotlib.pyplot
 
->**Methods:**\
+>**Methods:**
 > - Data processing, categorization, histogram, scatter matrix, scatter plot
 > - Exploratory data analysis, data visualization
 *As part of the research, a significant amount of data preprocessing was required.
