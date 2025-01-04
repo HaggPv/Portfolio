@@ -22,19 +22,20 @@
 (расширенный курс)**.*
 ________________________
 
-**Hypothesis Testing to Increase Revenue for an E-commerce Store**
+### **Hypothesis Testing to Increase Revenue for an E-commerce Store**
 
-Research Objective:\
+**Research Objective**:\
 Increase the revenue of the online store.
 
-Research tasks:\
+**Research tasks**:
 - Rank hypotheses using the ICE and RICE methodologies to identify the most prioritized ones.
 - Evaluate the results of the conducted A/B test aimed at assessing the impact of proposed innovations\
   on the number of orders per visitor and the average order value.
 
->Tools:\
-Python, pandas, seaborn, SciPy, NumPy, matplotlib, datetime\
->Methods:\
+>**Tools**:\
+Python, pandas, seaborn, SciPy, NumPy, matplotlib, datetime
+
+>**Methods**:\
 Data processing, A/B-test, Hypothesis prioritization using ICE and RICE frameworks
 
 *The project was completed during training at Yandex.Practicum\
