@@ -6,7 +6,7 @@
 **Инструменты и методы:**
 > - Python, pandas, matplotlib.pyplot
 > - Обработка данных, histogram, boxplot, scattermatrix,\
-категоризация, scatterplot,  фрод-мониторинг
+категоризация, scatterplot
 > - Исследовательский анализ данных, визуализация данных
 
 **Результат:**
@@ -20,13 +20,18 @@
 (расширенный курс)**.*
 ______________________________________
 
-**Real Estate Market Study of St. Petersburg and Surrounding Areas**
+### **Real Estate Market Study of St. Petersburg and Surrounding Areas**
 
-Research Objective:\
+**Research objective:**\
 Determining the factors that influence the cost of residential real estate.
 
->Language: Python\
-Libraries: **pandas, matplotlib.pyplot**
+>**Tools:**\
+> - Python, pandas, matplotlib.pyplot
+
+>**Methods:**\
+> - Data processing
+> - Histogram, boxplot, scatter matrix, categorization, scatter plot
+> - Exploratory data analysis, data visualization
 
 *The project was completed as part of the training at Yandex.Practicum;\
 **Specializationn: Data Analyst (advanced course)**.*

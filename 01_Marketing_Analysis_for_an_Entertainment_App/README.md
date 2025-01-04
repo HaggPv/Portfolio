@@ -23,15 +23,20 @@
 (расширенный курс)**.*
 ______________________________________
 
-**Analysis of the Effectiveness of the Advertising Strategy**\
+### **Analysis of the Effectiveness of the Advertising Strategy**\
 for an App Development Company
 
-**Research Objective**:\
+**Research objective**\
 Identify the causes of the advertising strategy's inefficiency.\
 Develop recommendations to overcome the unprofitability of advertising investments.
 
->Language: Python\
-Libraries: **pandas, matplotlib, seaborn**
+>**Tools:**\
+> - Python, pandas, matplotlib, seaborn
+
+>**Methods:**\
+> - Cohort analysis, product metrics, unit economics
+> - Calculation of metrics: Retention Rate, CR, LTV, CAC, ROI
+> - Marketing analysis 
 
 *The project was completed as part of the training at Yandex.Practicum;\
 **Specializationn: Data Analyst (advanced course)**.*

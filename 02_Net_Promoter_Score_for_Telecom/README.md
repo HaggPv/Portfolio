@@ -1,20 +1,18 @@
 ### **Исследование уровня потребительской лояльности (NPS - Net Promoter Score)**
 для телекоммуникационной компании, оказывающей услуги на территории СНГ.
 
-#### Описание проекта
-**Задачи:**
+**Цель проекта:**\
+Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.
+
+**Задачи исследования:**
 - Определить текущий уровень потребительской лояльности (NPS)\
 среди клиентов из России на основании проведённого опроса.
 - Выявить наиболее и наименее лояльные группы пользователей.
 - Охарактеризовать клиентов, которые относятся к группе cторонников (promoters).
 
-**Цель:**\
-Построить интерактивные дашборды, позволяющие менеджерам оперативно получать данные о лояльности по требуемым срезвм.
-
 **Инструмены и методы:**
 >- SQL, SQLite, Python, pandas, Tableau
 >- [Выгрузка данных, обработка данных](https://github.com/HaggPv/Portfolio/blob/main/02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), визуализация, построение дашбордов
-
 
 **Результат:**
 - Рассчитан уровень лояльности (NPS).
@@ -31,16 +29,15 @@ ________________________
 ### **Net Promoter Score (NPS) research**
 for a telecommunications company providing services across the entire CIS region.
 
-#### **Project description**
-**Tasks**
+**Project objective:**\
+To create interactive dashboards that allow managers to quickly access loyalty data based on required slices.
+
+**Research tasks:**
 - Determine the current level of customer loyalty (NPS - Net Promoter Score) among clients from Russia based on a conducted survey.
 - Identify the most and least loyal user groups.
 - Characterize customers who belong to the promoter group.
 
-**Objective**\
-To create interactive dashboards that allow managers to quickly access loyalty data based on required slices.
-
-**Tools and Skills**
+**Tools and Methods:**
 >- SQL, SQLite, Python, pandas, Tableau
 >- [Data extraction, data processing](https://github.com/HaggPv/Portfolio/blob/main/02_Yandex_8_Net_Promoter_Score_for_Telecom/yandex_8_NPS_for_telecom.ipynb), visualization, dashboard creation
 

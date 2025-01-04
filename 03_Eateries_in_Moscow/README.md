@@ -8,7 +8,7 @@
 найти интересные особенности рынка, визуализировать результаты.
 
 **Инструменты и методы:**
-> - Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, numpy, json, geopandas
+> - Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, NumPy, json, geopandas
 > - Обработка данных, визуализация данных, создание презентаций\
 *В рамках исследования потребовался большой объём предварительной обработки данных*
 
@@ -23,17 +23,20 @@
 (расширенный курс)**.*
 ________________________
 
-**Market Research on the Food Service Industry in Moscow**
+### **Market Research on the Food Service Industry in Moscow**
 
-Objective of the research:\
+**Objective of the research:**\
 To open a food service establishment in Moscow.
 
-Research tasks:\
+**Research tasks:**\
 Conduct a market research on the food service industry in Moscow,\
 identify interesting market features, visualize the results.
 
->Language: Python\
-Libraries: **pandas, seaborn, plotly.express, matplotlib.pyplot, folium, numpy**\
+>**Tools:**\
+Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, NumPy, json, geopandas
+
+>**Methods:**\
+Data processing, Data visualization, Presentation creation
 *As part of the research, a significant amount of data preprocessing was required.
 
 *The project was completed during training at Yandex.Practicum\
