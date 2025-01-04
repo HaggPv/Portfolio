@@ -9,7 +9,7 @@
 изучить влияние предлагаемых новаций на количество заказов на одного посетителя и средний размер чека.
 
 **Инструменты и методы:**
-> - Python, pandas, seaborn, SciPy, numpy, matplotlib, datetime
+> - Python, pandas, seaborn, SciPy, NumPy, matplotlib, datetime
 > - Обработка данных,  A/B-тестирование, приоритезация гипотез по методикам ICE/RICE\
 
 **Результат:**
