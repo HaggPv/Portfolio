@@ -9,7 +9,7 @@
 
 **Инструменты и методы:**
 > - Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, NumPy, json, geopandas
-> - Обработка данных, визуализация данных, создание презентаций\
+> - Обработка данных, интерактивные визуализации, создание презентаций\
 *В рамках исследования потребовался большой объём предварительной обработки данных*
 
 **Результат:**
@@ -36,7 +36,7 @@ identify interesting market features, visualize the results.
 Python, pandas, seaborn, plotly.express, matplotlib.pyplot, folium, NumPy, json, geopandas
 
 >**Methods:**\
-Data processing, Data visualization, Presentation creation
+Data processing, Data visualization, Interactive visualizations, Presentation creation
 *As part of the research, a significant amount of data preprocessing was required.
 
 *The project was completed during training at Yandex.Practicum\
