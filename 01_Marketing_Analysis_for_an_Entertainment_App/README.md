@@ -6,7 +6,7 @@
 Выработать рекомендации по преодолению убыточности рекламных вложений.
 
 **Инструменты и методы**:
-> - Python, pandas, matplotlib, seaborn 
+> - Python, pandas, matplotlib, seaborn, NumPy 
 > - Когортный анализ, продуктовые метрики, юнит-экономика
 > - Расчёт метрик Retention Rate, CR, LTV, CAC, ROI
 > - Маркетинговый анализ
@@ -31,7 +31,7 @@ Identify the causes of the advertising strategy's inefficiency.\
 Develop recommendations to overcome the unprofitability of advertising investments.
 
 >**Tools:**
-> - Python, pandas, matplotlib, seaborn
+> - Python, pandas, matplotlib, seaborn, NumPy
 
 >**Methods:**
 > - Cohort analysis, product metrics, unit economics

@@ -40,7 +40,7 @@ Develop an action plan for customer retention.
 - Test predictive models and select the most suitable one.
 
 >**Tools:**\
-Python, pandas, SciPy matplotlib.pyplot, NumPy
+Python, pandas, SciPy matplotlib.pyplot, NumPy, sklearn
 
 >**Methods:**\
 Exploratory Data Analysis (EDA), Statistics,\
